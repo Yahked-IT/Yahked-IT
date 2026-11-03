@@ -1,7 +1,7 @@
 
 <!-- ENCABEZADO ANIMADO (cambia el texto en text=) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola,%20soy%20TU%20NOMBRE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Soporte%20TI%20%7C%20Desarrollador%20de%20Software&descAlignY=58&descSize=20" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola,%20soy%20FERNANDO%20YAHIR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Soporte%20TI%20%7C%20Desarrollador%20de%20Software&descAlignY=58&descSize=20" alt="Banner" />
 </p>
 
 <!-- TEXTO QUE SE "ESCRIBE" SOLO -->
