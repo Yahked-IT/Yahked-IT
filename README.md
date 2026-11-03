@@ -1,7 +1,7 @@
 
 <!-- ENCABEZADO ANIMADO (cambia el texto en text=) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola,%20soy%20FERNANDO%20YAHIR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Soporte%20TI%20%7C%20Desarrollador%20de%20Software&descAlignY=58&descSize=20" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola,%20soy%20Fernando%20Yahir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Soporte%20TI%20%7C%20Desarrollador%20de%20Software&descAlignY=58&descSize=20" alt="Banner" />
 </p>
 
 <!-- TEXTO QUE SE "ESCRIBE" SOLO -->
@@ -31,16 +31,16 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy profesional de **soporte TI** y **programador** con pasión por resolver problemas, optimizar procesos y hacer que la tecnología funcione para las personas.
+Soy profesional de **soporte TI** con bases de programación, y me gusta resolver problemas, optimizar procesos y hacer que la tecnología funcione para las personas.
 
 - 🛠️ Diagnóstico y reparación de **hardware y software**
-- 🌐 Configuración y mantenimiento de **redes** (LAN/WiFi, routers, switches)
-- 🖥️ Administración de **Windows / Linux**, usuarios y permisos
-- 💻 Desarrollo de aplicaciones y **automatización de tareas**
-- 🔐 Buenas prácticas de **seguridad informática** y respaldos
-- 📚 Aprendiendo constantemente: _TODO: lo que estés aprendiendo_
+- 🌐 Configuración de **redes** (routers, switches, Cisco, fibra óptica a nivel básico)
+- 🖥️ Administración de **Windows / Linux**, usuarios y permisos (Active Directory, Microsoft 365)
+- 💻 Bases de programación en **Python, Java, PHP y JavaScript**, y **SQL** básico-medio
+- 🔐 Buenas prácticas de **seguridad informática** y clonación de imágenes (Acronis)
+-  Aprendiendo constantemente: Microsoft Azure ☁️
 
-> 💡 _"Si algo se hace más de dos veces, se automatiza."_
+> 💡 _"Fallo, aprendo, ajusto y vuelvo a intentar hasta que funciona."_
 
 ---
 
@@ -48,20 +48,20 @@ Soy profesional de **soporte TI** y **programador** con pasión por resolver pro
 
 ### 💻 Programación
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,cs,php,sql,bash,powershell&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,java,cs,php,sql,bash,powershell&perline=11" />
 </p>
 
 ### 🧱 Frameworks y bases de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,mysql,postgres,mongodb,sqlite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠️ Soporte TI y sistemas
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,docker,git,github,vscode,cisco,raspberrypi&perline=10" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,vscode,cisco" />
 </p>
 
-> _TODO: borra los íconos de tecnologías que no uses. Lista completa en [skillicons.dev](https://skillicons.dev)._
+
 
 ---
 
@@ -82,11 +82,10 @@ Soy profesional de **soporte TI** y **programador** con pasión por resolver pro
 
 <!-- TODO: reemplaza con tus repos reales -->
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| 📁 **[nombre-proyecto-1](https://github.com/TU_USUARIO/nombre-proyecto-1)** | Breve descripción de lo que hace | `Python` `SQLite` |
-| 🌐 **[nombre-proyecto-2](https://github.com/TU_USUARIO/nombre-proyecto-2)** | Breve descripción de lo que hace | `React` `Node.js` |
-| ⚙️ **[nombre-proyecto-3](https://github.com/TU_USUARIO/nombre-proyecto-3)** | Breve descripción de lo que hace | `Bash` `PowerShell` |
+| Proyecto | Descripción | Tecnologías | Avance |
+|---|---|---|---|
+| 📁 **[Mueblería](https://github.com/TU_USUARIO/nombre-proyecto-1)** | Sistema web para una mueblería, desarrollado con apoyo de herramientas de IA. 🚧 *En desarrollo* | `PHP` `HTML` `JS` `CSS` | ![Avance](https://img.shields.io/badge/Avance-40%25-yellow?style=for-the-badge) |
+
 
 <!-- TODO: captura de pantalla de algún proyecto -->
 <p align="center">
@@ -112,29 +111,50 @@ Soy profesional de **soporte TI** y **programador** con pasión por resolver pro
 
 ---
 
-## 🎓 Certificaciones y formación
+## 🎓 Certificaciones
 
-<!-- TODO: agrega tus certificados con su imagen/insignia -->
-- 🏅 Certificación / Curso 1 — _Institución, año_
-- 🏅 Certificación / Curso 2 — _Institución, año_
-- 🎓 Carrera o estudios — _Institución_
+### 🌐 Redes y soporte técnico
+| Certificación | Institución | Fecha |
+|---|---|---|
+| Computer Networks and Network Security | IBM | Sep 2026 |
+| Dell Technologies Networking & Security Technical Support | Dell Technologies | Sep 2026 |
+| Dell Technologies Technical Support Career Introduction | Dell Technologies | Sep 2026 |
+| Computer Hardware Basics | Cisco | Oct 2026 |
+| Introduction to Technical Support | IBM | Ago 2026 |
+| IT Customer Support Basics | Cisco | Feb 2026 |
+| Information Technology Fundamentals | IBM | Jun 2026 |
+| Analista de Help Desk | Udemy | Nov 2025 |
+
+### 🔐 Ciberseguridad
+| Certificación | Institución | Fecha |
+|---|---|---|
+| IT Fundamentals for Cybersecurity (Especialización) | IBM | Sep 2026 |
+| Introduction to Cybersecurity Tools & Cyberattacks | IBM | Sep 2026 |
+| SOC: Introducción a las Operaciones de Seguridad en empresas | Udemy | Jun 2026 |
+| Fundamentos de la ciberseguridad | Google | Dic 2025 |
+| Ciberseguridad: Respuesta a Incidentes | Udemy | Nov 2025 |
+| Forense Informático: Quién, Cómo y Cuándo | Udemy | Nov 2025 |
+
+### 🖥️ Sistemas operativos
+| Certificación | Institución | Fecha |
+|---|---|---|
+| Operating Systems: Overview, Administration, and Security | IBM | Sep 2026 |
+
+### 🧪 Otros
+| Certificación | Institución | Fecha |
+|---|---|---|
+| Programación para Testers | Udemy | Jun 2025 |
+| Tester QA Manual | EducacionIT | Jul 2024 |
+| SAP para Principiantes | Udemy | Sep 2025 |
+| Introducción a Excel | Becarios Mx | Sep 2025 |
 
 ---
 
 ## 🤝 Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO">
+  <a href="https://www.linkedin.com/in/fernando-yahir-arroyo-l%C3%B3pez-4a574b36b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tucorreo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/52XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -142,4 +162,10 @@ Soy profesional de **soporte TI** y **programador** con pasión por resolver pro
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </p>
 
-<p align="center"><i>⭐ Gracias por visitar mi perfil ⭐</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=%C2%A1Gracias+por+visitar+mi+perfil!;Si+algo+se+puede+resolver%2C+lo+resolvemos+juntos;%C2%BFHablamos%3F+Escr%C3%ADbeme+por+LinkedIn" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
+</p>
