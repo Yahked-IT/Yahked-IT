@@ -154,18 +154,10 @@ Soy profesional de **soporte TI** con bases de programación, y me gusta resolve
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-yahir-arroyo-l%C3%B3pez-4a574b36b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=%C2%A1Gracias+por+visitar+mi+perfil!;Si+algo+se+puede+resolver%2C+lo+resolvemos+juntos;%C2%BFHablamos%3F+Escr%C3%ADbeme+por+LinkedIn" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=26&fontColor=ffffff&fontAlignY=65" />
 </p>
